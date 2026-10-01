@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard AI - Scam & Malicious URL Sentinel",
+  "description": "AI security chatbot that detects malicious URLs, analyzes WhatsApp/SMS/Telegram scam messages, and guides you through suspicious online interaction investigations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
